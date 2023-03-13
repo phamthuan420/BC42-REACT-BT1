@@ -1,11 +1,10 @@
+import Home from "./BaiTapThucHanhLayout/Home";
 
 
 function App() {
-  return (
-    <div className="App">
-    
-    </div>
-  );
+  return <div>
+    <Home/>
+  </div>
 }
 
 export default App;
